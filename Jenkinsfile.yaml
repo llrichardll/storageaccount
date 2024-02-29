@@ -1,2 +1,7 @@
-paths = ["lista/app/imagen oficial java 17.txt", "orden/org/imag.txt", "clases/nd/prue/test/clases/nd/java.txt"]
-deleteFiles = ["clases/nd/prue/test/clases/nd/java.txt"]
+paths:
+  - lista/app/imagen oficial java 17.txt
+  - orden/org/imag.txt
+  - clases/nd/prue/test/clases/nd/java.txt
+
+deleteFiles:
+  - clases/nd/prue/test/clases/nd/java.txt
