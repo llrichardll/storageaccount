@@ -1,3 +1,2 @@
-path = "lista/app/imagen oficial java 17.txt"
-path2 = "prueba/ll/imagen oficial java 17.tft"
-delete = "lista/app/imagen oficial java 21.tft"
+paths = ["lista/app/imagen oficial java 17.txt", "orden/org/imag.txt", "clases/nd/prue/test/clases/nd/java.txt"]
+deleteFiles = ["clases/nd/prue/test/clases/nd/java.txt"]
