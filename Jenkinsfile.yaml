@@ -1,4 +1,4 @@
-listcontenedor: laboral
+listcontenedor:
 overwritefile:
   - lista/app/imagen oficial java 17.txt
 uploadfiles:
