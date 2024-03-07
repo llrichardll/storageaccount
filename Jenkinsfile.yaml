@@ -1,2 +1,5 @@
-overwritefile:
-  - lista/app/imagen oficial java 17.txt
+paths:
+  - "clases/nd/prue/test/clases/nd"
+  - "lista/app"
+  - "orden/org"
+  - "prueba/ll"
