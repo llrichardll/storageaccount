@@ -1,7 +1,7 @@
-overwritefile:
-  - lista/app/imagen oficial java 17.txt
-uploadfiles:
-  - lista/app/imagen oficial java 21.tft
-  - orden/org/imag.txt 
-#deleteFiles:
-#   - lista/app/imagen oficial java 21.tft
+#overwritefile:
+#  - lista/app/imagen oficial java 17.txt
+#uploadfiles:
+#  - lista/app/imagen oficial java 21.tft
+#  - orden/org/imag.txt 
+deleteFiles:
+   - lista/app/imagen oficial java 21.tft
