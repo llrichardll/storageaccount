@@ -11,7 +11,3 @@
 #editFolders:
 #  - oldFolder: lista/app/
 #    newFolder: prueba/pipeline/
-createFolders:
-  - nueva/carpeta1/
-  - nueva/carpeta2/
-  - nueva/carpeta3/subcarpeta/
