@@ -5,9 +5,8 @@
 #  - orden/org/imag.txt
 #deleteFiles:
 #  - lista/app/imagen oficial java 21.tft
-#deleteFolders:
-#  - lista/app/
-#  - orden/org/
-editFolders:
-  - oldFolder: lista/app/
-    newFolder: prueba/pipeline/
+deleteFolders:
+  - orden/org/
+#editFolders:
+#  - oldFolder: lista/app/
+#    newFolder: prueba/pipeline/
