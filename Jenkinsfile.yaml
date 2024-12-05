@@ -1,12 +1,13 @@
-#overwritefile:
+overwritefile:
+   - orden/org/imag.txt
 #  - lista/app/imagen oficial java 17.txt
-uploadfiles:
-  - lista/app/imagen oficial java 21.tft
+#uploadfiles:
+#  - lista/app/imagen oficial java 21.tft
 #  - orden/org/imag.txt
 #deleteFiles:
 #  - lista/app/imagen oficial java 21.tft
-deleteFolders:
-  - orden/org/
+#deleteFolders:
+#  - orden/org/
 #editFolders:
 #  - oldFolder: lista/app/
 #    newFolder: prueba/pipeline/
